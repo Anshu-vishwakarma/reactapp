@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.d327da16.chunk.css",
+    "main.js": "/reactapp/static/js/main.0bb29b05.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.0bb29b05.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.118a5667.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.118a5667.js.map",
+    "static/css/2.818011ed.chunk.css": "/reactapp/static/css/2.818011ed.chunk.css",
+    "static/js/2.f08e9d07.chunk.js": "/reactapp/static/js/2.f08e9d07.chunk.js",
+    "static/js/2.f08e9d07.chunk.js.map": "/reactapp/static/js/2.f08e9d07.chunk.js.map",
+    "static/js/3.ee68bfde.chunk.js": "/reactapp/static/js/3.ee68bfde.chunk.js",
+    "static/js/3.ee68bfde.chunk.js.map": "/reactapp/static/js/3.ee68bfde.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/reactapp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.d327da16.chunk.css.map": "/reactapp/static/css/main.d327da16.chunk.css.map",
+    "static/js/2.f08e9d07.chunk.js.LICENSE.txt": "/reactapp/static/js/2.f08e9d07.chunk.js.LICENSE.txt",
+    "static/media/coke.d941128f.jpg": "/reactapp/static/media/coke.d941128f.jpg",
+    "static/media/fries.1a7e24bd.jpg": "/reactapp/static/media/fries.1a7e24bd.jpg",
+    "static/media/hamburgur.16762037.jpg": "/reactapp/static/media/hamburgur.16762037.jpg",
+    "static/media/pepsi.c8fe4ece.jpg": "/reactapp/static/media/pepsi.c8fe4ece.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.118a5667.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f08e9d07.chunk.js",
+    "static/css/main.d327da16.chunk.css",
+    "static/js/main.0bb29b05.chunk.js"
+  ]
+}
